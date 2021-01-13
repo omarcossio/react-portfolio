@@ -2,16 +2,14 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
-import Navbar from "./component/navbar.jsx";
-import Footer from "./component/footer.jsx";
-import 'bootstrap/dist/css/bootstrap.css';
+import Navbar from "./components/Navbar.js";
+import Footer from "./components/Footer.js";
+import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+    <App />,
   document.getElementById('root')
 );
 
