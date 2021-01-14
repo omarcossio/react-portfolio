@@ -10,16 +10,18 @@ import { BrowserRouter as Router, Route } from "react-router-dom";
 
 function App() {
   return (
+    <>
+
     <Router>
           <div>
             <Navigation />
             {/* <Route exact path="/" component={Home} /> */}
             <Route exact path="/" component={About} />
             <Route exact path="/portfolio" component={Portfolio} />
-            <Route path="/contact" component={Contact} />
+            <Route exact path="/contact" component={Contact} />
           </div>
         </Router>
-
+</>
 
     // <Container>
     // <div className="App">

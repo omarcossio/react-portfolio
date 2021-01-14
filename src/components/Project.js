@@ -23,17 +23,15 @@ const styles = {
     }
 };
 
-class Project extends Component {
-    state = {}
-    render() {
+const Project = props=>{
         return (
             <div >
                 <div style={styles.card}>
-                    <div style={styles.heading}>{this.props.title}</div>
+                    <div style={styles.heading}>{props.title}</div>
                     <div style={styles.content}>
-                        <img src={this.props.image} alt={this.props.title}></img>
-                        <a href={this.props.repoUrl}><p>Repo Link</p></a>
-                        <a href={this.props.liveUrl}><p>Live Link</p></a>
+                        <img src={props.image} alt={props.title}></img>
+                        <a href={props.repoUrl}><p>Repo Link</p></a>
+                        <a href={props.liveUrl}><p>Live Link</p></a>
                     </div>
                 </div>
 
@@ -44,7 +42,6 @@ class Project extends Component {
 
             </div>
         );
-    }
 }
 
 export default Project;
