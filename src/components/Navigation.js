@@ -34,18 +34,6 @@ function Navigation() {
         </Link>
                 </li>
             </ul>
-
-            {/* <Nav defaultActiveKey="/home" className="justify-content-center" as="ul">
-                    <Nav.Item as="li">
-                        <Nav.Link href="#home" >About</Nav.Link>
-                    </Nav.Item>
-                    <Nav.Item as="li">
-                        <Nav.Link href="#portfolio">Portfolio</Nav.Link>
-                    </Nav.Item>
-                    <Nav.Item as="li">
-                        <Nav.Link href="#contact">Contact</Nav.Link>
-                    </Nav.Item>
-                </Nav> */}
         </div>
     )
 }

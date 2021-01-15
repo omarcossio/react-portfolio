@@ -1,23 +1,58 @@
 [
     {
-            "id": 1,
-            "title": "Password Generator",
-            "image": "pwGenerator.png",
-            "repoUrl": "",
-            "liveUrl": ""
+        "id": 1,
+        "title": "Password Generator",
+        "image": "pwGenerator.png",
+        "repoUrl": "https://github.com/omarcossio/password-generator",
+        "liveUrl": "https://omarcossio.github.io/password-generator/"
     },
     {
-            "id": 2,
-            "title": "Test",
-            "image": "pwGenerator.png",
-            "repoUrl": "",
-            "liveUrl": ""
+        "id": 2,
+        "title": "Getaway Planner",
+        "image": "getaway.png",
+        "repoUrl": "https://github.com/omarcossio/GetawayPlanner",
+        "liveUrl": "https://omarcossio.github.io/GetawayPlanner"
     },
     {
-            "id": 3,
-            "title": "Test",
-            "image": "pwGenerator.png",
-            "repoUrl": "",
-            "liveUrl": ""
+        "id": 3,
+        "title": "Weather-Dashboard",
+        "image": "weather2.png",
+        "repoUrl": "https://github.com/omarcossio/weather-dashboard-API-",
+        "liveUrl": "https://omarcossio.github.io/weather-dashboard-API-"
+    },
+    {
+        "id": 4,
+        "title": "Scheduler",
+        "image": "scheduler.png",
+        "repoUrl": "https://github.com/omarcossio/scheduler",
+        "liveUrl": "https://omarcossio.github.io/scheduler"
+    },
+    {
+        "id": 5,
+        "title": "EmployeeSummaryTemplate",
+        "image": "employeeSummary2.png",
+        "repoUrl": "https://github.com/omarcossio/EmployeeSummaryTemplate",
+        "liveUrl": "https://omarcossio.github.io/EmployeeSummaryTemplate"
+    },
+    {
+        "id": 6,
+        "title": "Weather-Dashboard",
+        "image": "weather2.png",
+        "repoUrl": "https://github.com/omarcossio/Interactive-quiz",
+        "liveUrl": "https://omarcossio.github.io/Interactive-quiz"
+    },
+    {
+        "id": 7,
+        "title": "Eat-Da-Burger",
+        "image": "eat-da-burger.png",
+        "repoUrl": "https://github.com/omarcossio/burger",
+        "liveUrl": "https://immense-retreat-97765.herokuapp.com/"
+    },
+    {
+        "id": 8,
+        "title": "Budget-Tracker",
+        "image": "BudgetTrackerIcon.png",
+        "repoUrl": "https://github.com/omarcossio/Budget_Tracker",
+        "liveUrl": "https://fierce-fjord-16548.herokuapp.com/"
     }
 ]
