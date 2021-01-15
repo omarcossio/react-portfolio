@@ -11,7 +11,7 @@ function MyInfo() {
                         <div className="col-1">
                             <a href="https://github.com/omarcossio"
                                 target="_blank">
-                                <img src="githubicon.png" width="100%"></img>
+                                <img src="githubIcon.png" width="100%"></img>
                             </a>
                         </div>
                         <div className="col-1">
