@@ -4,7 +4,7 @@ import projects from '../data.json';
 
 function Portfolio() {
     return (
-        <div id="portfolio">
+        <div className="mt-5" id="portfolio">
             <h1>Portfolio</h1>
             <div className="row">
                 {projects.map((project) => (
