@@ -7,7 +7,7 @@ function Header() {
     return (
 
         <header className='Nav'>
-          <h1><span>Omar's Portfolio</span></h1><Navigation />
+          <Navigation />
           
         
       </header>
