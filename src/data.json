@@ -36,8 +36,8 @@
     },
     {
         "id": 6,
-        "title": "Weather-Dashboard",
-        "image": "weather2.png",
+        "title": "Interactive Quiz",
+        "image": "quiz.png",
         "repoUrl": "https://github.com/omarcossio/Interactive-quiz",
         "liveUrl": "https://omarcossio.github.io/Interactive-quiz"
     },
