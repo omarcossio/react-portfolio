@@ -13,6 +13,7 @@ function About() {
                 <div className="col-12 float-start">
                     <img src="myPhoto.png" className="rounded float-left mr-4" alt="Omar's Profile Photo" width="30%"></img>
                     <div>
+                        <h2>About Me</h2>
                         <p> My name is Omar Cossio. I am originally from Mexico City, Mexico,
                         but grew up in Asheboro, NC. I moved to Charlotte, NC in 2011, and love it.
                     </p>
